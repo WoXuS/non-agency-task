@@ -16,8 +16,7 @@ A web page built with semantic HTML and optimized CSS following the BEM conventi
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
-
+- 
 ## Features
 
 - Semantic HTML structure improving SEO.
